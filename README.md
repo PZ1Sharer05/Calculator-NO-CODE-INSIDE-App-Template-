@@ -1,0 +1,2 @@
+# Calculator-NO-CODE-INSIDE-App-Template-
+It is a calculator template with no code inside. Basically just the design inside the file
